@@ -3,3 +3,4 @@ vless://a7db52fe-9421-11f1-9bf7-57c6fddfd7c7@89.218.15.100:10004?encryption=none
 vless://e3907396-9422-11f1-9bd7-5254b0a2c347@38.54.2.189:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%E2%9C%94%20Yasaman%203%20%7C%20%40V2RAYNETIR
 vless://21d09f1c-9425-11f1-a564-e7c56e59c6b9@180.149.44.124:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%E2%9C%94%20Yasaman%204%20%7C%20%40V2RAYNETIR
 vless://7d29e8e0-9426-11f1-a4b8-5254f882a642@38.54.45.142:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%E2%9C%94%20Yasaman%205%20%7C%20%40V2RAYNETIR
+vless://92e242c0-9428-11f1-9532-52cf4084cd34@185.44.65.134:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%E2%9C%94%20Yasaman%206%20%7C%20%40V2RAYNETIR
